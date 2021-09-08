@@ -4,7 +4,8 @@ Hello world example (golang)
 
 ```sh
 go get github.com/aws/aws-lambda-go/lambda
-GOOS=linux go build main
+go get github.com/aws/aws-lambda-go/events
+GOARCH=amd64 GOOS=linux go build main.go
 ```
 
 
