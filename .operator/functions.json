@@ -13,8 +13,7 @@
       "projectId": "117806e4-d393-4378-8920-e8fc27936fe5",
       "arn": "arn:aws:lambda:us-east-1:137418857087:function:my-hello-world-golang",
       "relativeCode": "/main.go",
-      "usage": {
-        "type": "https",
+      "https": {
         "apiMethod": "GET",
         "apiPath": "/hello",
         "apiResourceId": "bswvf5",
