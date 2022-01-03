@@ -1,6 +1,7 @@
 {
   "localhost": {
     "provider": "aws",
+    "apiId": "0b107ab8-4820-485f-838f-ed3d37a94461",
     "functionName": "helloWorldGo1",
     "lastDeployed": null,
     "properties": {
@@ -46,6 +47,7 @@
   },
   "137418857087": {
     "provider": "aws",
+    "apiId": "0b107ab8-4820-485f-838f-ed3d37a94461",
     "functionName": "helloWorldGo1",
     "lastDeployed": "2021-12-14T17:49:36.691+0000",
     "properties": {
